@@ -6,4 +6,6 @@ We curently have about 7 members, and our dedicated space is a closet in our caf
 
 A big portion of the off-season, we spent trying to make use of our space. We build and practice in the Cafeteria and classrooms. Everything must be stowed each night. We have traditionally been a Python team, but we saw the extended off-season due to COVID as an excellent opportunity to learn Java. We are currently planning on using Java this upcoming season.
 
+Our goal is to create a competitve robot this season. We will get more specific when we see what the game has to bring.
+
 We will post our updates weekly on this blog as well as on our Chief Delphi Thread.
