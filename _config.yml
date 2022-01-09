@@ -18,7 +18,7 @@ github_username: "Oscats"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+# theme: "minima"
 
 rss: rss
 
@@ -29,6 +29,9 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-remote-theme
+  
+remote_theme: jekyll/minima
 
 titles_from_headings:
   strip_title: true
