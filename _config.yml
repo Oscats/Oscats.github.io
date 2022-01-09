@@ -19,7 +19,7 @@ github_username: "Oscats"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 #theme: "minima"
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@3cdd14d
 minima:
   skin: dark
 
