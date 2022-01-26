@@ -1,4 +1,6 @@
-# Minimal Mistakes remote theme starter
+# Welcome to the Oscats Build blog site
+To view the published site, head over to https://oscats.github.io
+We used the Minimal Mistakes remote theme starter to set our blog up.
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
