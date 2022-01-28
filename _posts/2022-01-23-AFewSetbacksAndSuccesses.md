@@ -6,8 +6,7 @@ categories:
   - Troubleshooting
   - Climber
 tags:
-  - Jekyll
-  - update
+  - Update
 header:
   teaser: "https://user-images.githubusercontent.com/25676667/150696828-3e6e123a-1f61-4406-a50c-c6b0dde25c1f.jpg"
   overlay_image: "https://user-images.githubusercontent.com/25676667/150696828-3e6e123a-1f61-4406-a50c-c6b0dde25c1f.jpg"
